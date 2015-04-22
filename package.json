@@ -1,0 +1,23 @@
+{
+    "name": "Blocket",
+    "description": "Small app that watches Blocket searches for new entries",
+    "author": {
+        "name": "Alexander Persson",
+        "url": "https://www.linkedin.com/in/alexanderpersson",
+        "email": "alexander.f.persson@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "version": "0.0.1",
+    "dependencies" : {
+        "chokidar": "1.0.x",
+        "lodash": "3.7.x",
+        "request": "2.55.x",
+        "q": "1.2.x",
+        "require-new": "1.0.x",
+        "cheerio": "0.19.x",
+        "nodemailer": "1.3.4"
+    }
+}

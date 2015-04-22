@@ -1,0 +1,14 @@
+{
+   "intervalInMinutes": 60,
+   "smtp" : {
+        "emailAddress": "email@gmail.com",
+        "password": "password"
+		},
+    "recievers" : [
+        "first@gmail.com",
+        "second@gmail.com"
+        ],
+    "watchlist" : [
+        "http://www.blocket.se/bostad/uthyres?cg_multi=3100&cg_multi=3120&sort=&ss=&se=&ros=&roe=&bs=&be=&mre=&q=&q=&q=&is=1&save_search=1&l=0&md=th&f=p&f=c&f=b&ca=23_11&w=1&m=263&m=265&m=271&m=288"
+    ]
+}
